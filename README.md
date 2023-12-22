@@ -1,5 +1,7 @@
 # AutenticacaoUsuarios
 
+Este projecto consiste em fazer a autenticação de usuários com Node js, angular, express, Knex, SqLite3
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
 
 ## Development server
